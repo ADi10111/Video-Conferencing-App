@@ -94,7 +94,7 @@ NEXT_PUBLIC_STREAM_API_KEY=
 STREAM_SECRET_KEY=
 ```
 
-Replace the placeholder values with your actual Clerk & getstream credentials. You can obtain these credentials by signing up on the [Clerk website](https://clerk.com/) and [getstream website](https://getstream.io/)
+
 
 **Running the Project**
 
